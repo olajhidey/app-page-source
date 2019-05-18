@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GenApp</string>
+    <string name="url_titlr">Enter Url:</string>
+    <string name="hint_url">www.example.com</string>
+    <string name="btn_text">Get Page Source</string>
+    <string name="hint_text">Page source will appear here</string>
+    <string-array name="security">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+    <string name="no_result">No result available</string>
+    <string name="loading">Loading...</string>
+    <string name="no_search_term">Please enter a search term</string>
+    <string name="no_network">Please check your network connection and try again.</string>
+</resources>
